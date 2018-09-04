@@ -6,4 +6,8 @@ macOS 下一些应用的图标真的很不走心了，一起来替换掉吧！
 ![](https://ws2.sinaimg.cn/large/006tNbRwly1fuxyugo90nj31kw0hotmf.jpg)
 
 ## 替换图标方法
+下载图标 PNG 文件后按照如下步骤
 https://support.apple.com/kb/PH6919?viewlocale=zh_CN&locale=zh_CN
+
+## 格式转换
+[png2icns](https://github.com/bitboss-ca/png2icns)
