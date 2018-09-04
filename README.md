@@ -1,2 +1,2 @@
-# macicontosh
-替换掉 macOS 下一些应用的「丑陋」图标
+# Macicontosh
+macOS 下一些应用的图标真的很不走心了，一起来替换掉吧！
