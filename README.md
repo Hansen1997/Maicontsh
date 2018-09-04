@@ -4,6 +4,12 @@ macOS 下一些应用的图标真的很不走心了，一起来替换掉吧！
 
 ## 已完成图标
 
+- Sinpaste
+- Downloader
+- CAJViewerMac
+- Keka
+- Adobe（Ps Ai Pr Ae Encoder Acrobat）
+
 ![](images/1.png)
 
 ![](images/2.png)
