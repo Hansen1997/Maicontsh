@@ -2,18 +2,13 @@
 macOS 下一些应用的图标真的很不走心了，一起来替换掉吧！
 如有图标制作需求欢迎提 issue ！
 
+![](images/All.png)
+
 ## 已完成图标
 
-- Sinpaste
-- Downloader
-- CAJViewerMac
-- Keka
-- Adobe（Ps Ai Pr Ae Encoder Acrobat）
-- Typora
-- R
-- RStudio
+所有图标可在 Airtable中查看（未更新完全）
 
-![](images/All.png)
+https://airtable.com/shrKx688t3FozYuwY
 
 ## 替换图标方法
 
